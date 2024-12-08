@@ -16,4 +16,4 @@ This project involves scraping Reddit data for sentiment analysis and using it i
 ## How to run
 - It is a MVP so to get the result the symbol of the stock should be written in the main function at the end of the notebooka dn you have to add your API keys for reddit praw and then run all the cells, it will give desired results
 - The requirements file is given as requirements.txt
-- Requirements file can be run as '''pip install -r requirements.txt'''
+- Requirements file can be run as ```pip install -r requirements.txt```
